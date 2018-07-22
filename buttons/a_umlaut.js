@@ -1,1 +1,0 @@
-(function() {tinymce.PluginManager.add('aliel_a_umlaut', function( editor, url ) {editor.addButton( 'aliel_a_umlaut', {text: 'Ä',icon: false,onclick: function() {editor.insertContent('Ä');}});});})();
