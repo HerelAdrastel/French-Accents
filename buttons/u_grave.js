@@ -1,1 +1,1 @@
-(function() {tinymce.PluginManager.add('aliel_u_grave', function( editor, url ) {editor.addButton( 'aliel_u_grave', {text: 'Ù',icon: false,onclick: function() {editor.insertContent('Ù');}});});})();
+(function() {tinymce.PluginManager.add('french_accents_u_grave', function( editor, url ) {editor.addButton( 'french_accents_u_grave', {text: 'Ù',icon: false,onclick: function() {editor.insertContent('Ù');}});});})();

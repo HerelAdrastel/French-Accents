@@ -1,1 +1,1 @@
-(function() {tinymce.PluginManager.add('aliel_c_cedilla', function( editor, url ) {editor.addButton( 'aliel_c_cedilla', {text: 'Ç',icon: false,onclick: function() {editor.insertContent('Ç');}});});})();
+(function() {tinymce.PluginManager.add('french_accents_c_cedilla', function( editor, url ) {editor.addButton( 'french_accents_c_cedilla', {text: 'Ç',icon: false,onclick: function() {editor.insertContent('Ç');}});});})();

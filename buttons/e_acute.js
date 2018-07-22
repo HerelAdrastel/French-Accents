@@ -1,1 +1,1 @@
-(function() {tinymce.PluginManager.add('aliel_e_acute', function( editor, url ) {editor.addButton( 'aliel_e_acute', {text: 'É',icon: false,onclick: function() {editor.insertContent('É');}});});})();
+(function() {tinymce.PluginManager.add('french_accents_e_acute', function( editor, url ) {editor.addButton( 'french_accents_e_acute', {text: 'É',icon: false,onclick: function() {editor.insertContent('É');}});});})();

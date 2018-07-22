@@ -1,1 +1,1 @@
-(function() {tinymce.PluginManager.add('aliel_oe', function( editor, url ) {editor.addButton( 'aliel_oe', {text: 'œ',icon: false,onclick: function() {editor.insertContent('œ');}});});})();
+(function() {tinymce.PluginManager.add('french_accents_oe', function( editor, url ) {editor.addButton( 'french_accents_oe', {text: 'œ',icon: false,onclick: function() {editor.insertContent('œ');}});});})();
