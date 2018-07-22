@@ -12,7 +12,7 @@ include_once plugin_dir_path(__FILE__) . '/French_Accent.php';
 /**
  * Entry point
  */
-function french_accennts_main() {
+function french_accents_main() {
 
 	// For all the buttons found in the directory buttons, create a button
 	$files = scandir(__DIR__ . '/buttons');
@@ -21,4 +21,4 @@ function french_accennts_main() {
 	}
 }
 
-add_action('admin_head', 'french_accennts_main' );
+add_action('admin_head', 'french_accents_main' );
