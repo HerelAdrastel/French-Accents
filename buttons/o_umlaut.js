@@ -1,0 +1,1 @@
+(function() {tinymce.PluginManager.add('aliel_o_umlaut', function( editor, url ) {editor.addButton( 'aliel_o_umlaut', {text: 'Ö',icon: false,onclick: function() {editor.insertContent('Ö');}});});})();

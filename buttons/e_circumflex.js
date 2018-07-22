@@ -1,0 +1,1 @@
+(function() {tinymce.PluginManager.add('aliel_e_circumflex', function( editor, url ) {editor.addButton( 'aliel_e_circumflex', {text: 'Ê',icon: false,onclick: function() {editor.insertContent('Ê');}});});})();
